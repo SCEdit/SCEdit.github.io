@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox=".07 51.335 223.93 121.33" width="223.93" height="121.33">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.18.6\n2023-09-03 06:59:25 +0000</metadata>
+  <g id="Canvas_1" stroke="none" stroke-opacity="1" fill-opacity="1" fill="none" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_15">
+        <rect x=".07" y="99.175" width="25.65" height="25.65" fill="#624aff"/>
+      </g>
+      <g id="Graphic_16">
+        <rect x="99.21" y="124.825" width="25.65" height="25.65" fill="#624aff"/>
+      </g>
+      <g id="Graphic_17">
+        <path d="M 176.16 150.475 L 150.51 150.475 L 150.51 172.665 L 198.35 172.665 L 198.35 124.825 L 176.16 124.825 Z" fill="#624aff"/>
+      </g>
+      <g id="Graphic_18">
+        <rect x="124.86" y="99.175" width="25.65" height="25.65" fill="#36cfd1"/>
+      </g>
+      <g id="Graphic_19">
+        <rect x=".07" y="73.525" width="25.65" height="25.65" fill="#36cfd1"/>
+      </g>
+      <g id="Graphic_20">
+        <rect x="198.35" y="99.175" width="25.65" height="25.65" fill="#624aff"/>
+      </g>
+      <g id="Graphic_21">
+        <rect x="198.35" y="73.525" width="25.65" height="25.65" fill="#36cfd1"/>
+      </g>
+      <g id="Graphic_22">
+        <path d="M 150.51 51.335 L 150.51 73.525 L 176.16 73.525 L 176.16 99.175 L 198.35 99.175 L 198.35 51.335 Z" fill="#624aff"/>
+      </g>
+      <g id="Graphic_23">
+        <rect x="73.56" y="99.175" width="25.65" height="25.65" fill="#36cfd1"/>
+      </g>
+      <g id="Graphic_24">
+        <path d="M 47.91 73.525 L 73.56 73.525 L 73.56 51.335 L 25.72 51.335 L 25.72 99.175 L 47.91 99.175 Z" fill="#624aff"/>
+      </g>
+      <g id="Graphic_25">
+        <path d="M 47.91 124.825 L 25.72 124.825 L 25.72 172.665 L 73.56 172.665 L 73.56 150.475 L 47.91 150.475 Z" fill="#624aff"/>
+      </g>
+    </g>
+  </g>
+</svg>
