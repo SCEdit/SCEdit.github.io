@@ -93,6 +93,14 @@
     </item>
     
     <item>
+      <title>Style</title>
+      <link>/tasks/style/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tasks/style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tuning strategies on generative task</title>
       <link>/visualization/coco1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -113,6 +121,22 @@
       <link>/visualization/fgvc2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/visualization/fgvc2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZMulti1</title>
+      <link>/tasks/multi1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tasks/multi1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZMulti2</title>
+      <link>/tasks/multi2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tasks/multi2/</guid>
       <description></description>
     </item>
     
