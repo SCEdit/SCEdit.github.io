@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualizations | SCEdit</title>
+    <link>/visualization/</link>
+      <atom:link href="/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visualizations</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_hu80b2f216d8e6092d147109ad9cf71042_15998_512x512_fill_lanczos_center_3.png</url>
+      <title>Visualizations</title>
+      <link>/visualization/</link>
+    </image>
+    
+    <item>
+      <title>Canny</title>
+      <link>/visualization/canny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/visualization/canny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color</title>
+      <link>/visualization/color/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/visualization/color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning strategies on generative task</title>
+      <link>/visualization/coco1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/visualization/coco1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning strategies on generative task</title>
+      <link>/visualization/fgvc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/visualization/fgvc1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning strategies on generative task</title>
+      <link>/visualization/fgvc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/visualization/fgvc2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

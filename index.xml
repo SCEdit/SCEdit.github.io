@@ -12,5 +12,109 @@
       <link>/</link>
     </image>
     
+    <item>
+      <title>Canny</title>
+      <link>/tasks/canny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tasks/canny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canny</title>
+      <link>/visualization/canny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/visualization/canny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color</title>
+      <link>/tasks/color/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tasks/color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color</title>
+      <link>/visualization/color/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/visualization/color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth</title>
+      <link>/tasks/depth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tasks/depth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HED</title>
+      <link>/tasks/hed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tasks/hed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inpainting</title>
+      <link>/tasks/inpainting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tasks/inpainting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outpainting</title>
+      <link>/tasks/outpainting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tasks/outpainting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose</title>
+      <link>/tasks/pose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tasks/pose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation</title>
+      <link>/tasks/segmentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tasks/segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning strategies on generative task</title>
+      <link>/visualization/coco1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/visualization/coco1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning strategies on generative task</title>
+      <link>/visualization/fgvc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/visualization/fgvc1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning strategies on generative task</title>
+      <link>/visualization/fgvc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/visualization/fgvc2/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

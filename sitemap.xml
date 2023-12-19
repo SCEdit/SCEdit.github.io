@@ -6,13 +6,88 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/tag/canny/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tasks/canny/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/visualization/canny/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/coco/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/color/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tasks/color/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/visualization/color/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/depth/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tasks/depth/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/fgvc/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/hed/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tasks/hed/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/inpainting/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tasks/inpainting/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/outpainting/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tasks/outpainting/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/pose/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tasks/pose/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/tag/segmentation/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tasks/segmentation/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tasks/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/visualization/coco1/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/visualization/fgvc1/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/visualization/fgvc2/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/visualization/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
